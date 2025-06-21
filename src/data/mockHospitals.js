@@ -1,0 +1,58 @@
+export const mockHospitals = [
+  {
+    name: "Chris Hani Baragwanath Hospital",
+    type: "Hospital",
+    city: "Johannesburg",
+    province: "Gauteng",
+    contact: "011 933 8000",
+  },
+  {
+    name: "Steve Biko Academic Hospital",
+    type: "Hospital",
+    city: "Pretoria",
+    province: "Gauteng",
+    contact: "012 354 1000",
+  },
+  {
+    name: "Groote Schuur Hospital",
+    type: "Hospital",
+    city: "Cape Town",
+    province: "Western Cape",
+    contact: "021 404 9111",
+  },
+  {
+    name: "Tygerberg Hospital",
+    type: "Hospital",
+    city: "Cape Town",
+    province: "Western Cape",
+    contact: "021 938 4911",
+  },
+  {
+    name: "Mowbray Maternity Hospital",
+    type: "Clinic",
+    city: "Cape Town",
+    province: "Western Cape",
+    contact: "021 659 5500",
+  },
+  {
+    name: "Hillbrow Community Health Centre",
+    type: "Clinic",
+    city: "Johannesburg",
+    province: "Gauteng",
+    contact: "011 720 2442",
+  },
+  {
+    name: "Durban Addington Hospital",
+    type: "Hospital",
+    city: "Durban",
+    province: "KwaZulu-Natal",
+    contact: "031 327 2000",
+  },
+  {
+    name: "Polokwane Provincial Hospital",
+    type: "Hospital",
+    city: "Polokwane",
+    province: "Limpopo",
+    contact: "015 287 5000",
+  },
+];
